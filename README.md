@@ -1,0 +1,2 @@
+# jndi-sample
+jndi sample
